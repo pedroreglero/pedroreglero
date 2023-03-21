@@ -1,7 +1,10 @@
-Young and passionate software developer 👨‍💻 who enjoys programming web 🌎 and mobile software 📱.\
-Possess 4+ years of proven ability to leverage website and mobile app development skills by applying programming knowledge to identify 🔍, formulate ✍, and solve problems ✅. \
-Quick learner and ready to work professional developer 📖. \
-In-depth experience in the fundamental aspects, methods, and processes related to programming technologies such as Xamarin Forms, React, React Native, Docker, Kubernetes, ASP. Net/Core, C#, Windows Forms, Node JS, Python, SQL Server, MySql. \
-Adept at identifying critical paths and implementing practical solutions under time-critical conditions ⏳.
+I am a young and enthusiastic Software Developer with a keen interest in programming web and mobile applications.
+With over four years of experience, I have effectively utilized my website and mobile app development abilities to
+identify, formulate, and solve problems using my programming knowledge.
+As a quick learner and professional developer, I possess extensive expertise in the fundamental aspects, methodologies,
+and processes associated with various programming technologies, including React, React Native, .Net, Xamarin Forms,
+ASP. Net/Core, C#, Windows Forms, Node JS, Python, SQL Server and MySQL.
+I excel at recognizing critical paths and implementing practical solutions within time-sensitive circumstances, making
+me a great problem-solver.
 
 ![PedroReglero's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroreglero)
